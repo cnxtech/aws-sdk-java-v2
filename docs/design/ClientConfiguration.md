@@ -1,4 +1,4 @@
-# Client Configuration
+## Client Configuration
 
 This page describes the structure and conventions used for client configuration objects. Client configuration objects are any objects used to configure an AWS client builder.
 
